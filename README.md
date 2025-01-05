@@ -53,8 +53,8 @@ L'architecture inclut les composants suivants :
 1. Clonez le dépôt :
 
    ```bash
-   git clone https://github.com/votre-utilisateur/nom-du-repo.git
-   cd nom-du-repo
+   git clone https://github.com/Aya1311/Etl_Airflow
+   cd Etl_Airflow
    ```
 
 2. Construisez les conteneurs Docker :
