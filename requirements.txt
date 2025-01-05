@@ -1,0 +1,5 @@
+scikit-learn
+dash
+numpy
+pandas
+streamlit

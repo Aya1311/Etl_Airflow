@@ -1,0 +1,2 @@
+Data/accidents.db filter=lfs diff=lfs merge=lfs -text
+Data/accidents_1983.csv filter=lfs diff=lfs merge=lfs -text

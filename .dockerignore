@@ -1,0 +1,8 @@
+logs/
+__pycache__/
+*.log
+*.db
+*.tar
+*.gz
+.ipynb_checkpoints/
+*.zip
